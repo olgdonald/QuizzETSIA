@@ -1,0 +1,173 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz-1",
+      "title": "Clean City",
+      "status": "DRAFT",
+      "durationSeconds": 90,
+      "questions": [
+        {
+          "id": "q1",
+          "label": "Quel est le principal objectif du tri des déchets ?",
+          "choices": [
+            "Réduire la pollution",
+            "Augmenter les déchets",
+            "Supprimer les parcs",
+            "Fermer les écoles"
+          ],
+          "answerIndex": 0
+        },
+        {
+          "id": "q2",
+          "label": "Une ville durable privilégie...",
+          "choices": [
+            "Le gaspillage",
+            "La mobilité douce",
+            "Le plastique à usage unique",
+            "Les embouteillages"
+          ],
+          "answerIndex": 1
+        },
+        {
+          "id": "q3",
+          "label": "Quel geste économise l eau ?",
+          "choices": [
+            "Laisser couler le robinet",
+            "Réparer les fuites",
+            "Laver la rue chaque jour",
+            "Prendre des bains très longs"
+          ],
+          "answerIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "title": "smart city",
+      "questions": [
+        {
+          "label": "comment s'appelle olg",
+          "choices": [
+            "olnga",
+            "olinga",
+            "bosss",
+            "uo"
+          ],
+          "answerIndex": 1,
+          "id": "27cf82c4-c238-4336-85c6-79533b1042b0"
+        },
+        {
+          "label": "jean est son nom",
+          "choices": [
+            "oui",
+            "non",
+            "son prenom",
+            "po"
+          ],
+          "answerIndex": 0,
+          "id": "52fe3473-c489-4cc1-98bf-2650ed1780b7"
+        },
+        {
+          "label": "where are you been ?",
+          "choices": [
+            "riri",
+            "drake",
+            "oik",
+            "kkk"
+          ],
+          "answerIndex": 0,
+          "id": "0d972b07-8a33-44b4-ae82-4ebfa8375a5d"
+        }
+      ],
+      "durationSeconds": 95,
+      "status": "CLOSED",
+      "openedAt": "2026-09-09T06:26:15.514Z",
+      "closedAt": "2026-09-09T06:28:19.901Z"
+    }
+  ],
+  "participants": [
+    {
+      "id": "0e0ed771-0ce0-40ca-ae4b-1d8d74311078",
+      "name": "olg",
+      "accessCode": "donald"
+    },
+    {
+      "id": "2decc5c7-9657-4d73-8864-6cd4dcc2d7c3",
+      "name": "sami",
+      "accessCode": "1234"
+    },
+    {
+      "id": "5bb89e53-b1e6-425b-8932-a8dc5a92d7af",
+      "name": "olg",
+      "accessCode": "1234"
+    },
+    {
+      "id": "2eca337e-f95b-4772-ba87-d36d45951ead",
+      "name": "bobo",
+      "accessCode": "1234"
+    },
+    {
+      "id": "b34c77ad-4e34-4754-a813-5c86f1237f18",
+      "name": "dona",
+      "accessCode": "1234"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "9a99c5ca-3453-4daa-9629-311f8b308f55",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "5bb89e53-b1e6-425b-8932-a8dc5a92d7af",
+      "answers": [
+        1,
+        1,
+        2
+      ],
+      "score": 1,
+      "submittedAt": "2026-09-09T06:26:28.682Z"
+    },
+    {
+      "id": "beb2661b-8922-405f-8030-2216bb2a669e",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "2decc5c7-9657-4d73-8864-6cd4dcc2d7c3",
+      "answers": [
+        1,
+        2,
+        0
+      ],
+      "score": 2,
+      "submittedAt": "2026-09-09T06:26:55.088Z"
+    },
+    {
+      "id": "e8764add-6ab3-4c47-8936-74c4924001e8",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "2eca337e-f95b-4772-ba87-d36d45951ead",
+      "answers": [
+        1,
+        3,
+        0
+      ],
+      "score": 2,
+      "submittedAt": "2026-09-09T06:27:20.880Z"
+    }
+  ],
+  "attempts": [
+    {
+      "id": "ba72c722-3a2b-4933-b765-e23e87e64f3c",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "5bb89e53-b1e6-425b-8932-a8dc5a92d7af",
+      "startedAt": "2026-09-09T06:26:23.037Z"
+    },
+    {
+      "id": "d309f6d1-02c4-43d0-afc6-5c69d291dc40",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "2decc5c7-9657-4d73-8864-6cd4dcc2d7c3",
+      "startedAt": "2026-09-09T06:26:44.546Z"
+    },
+    {
+      "id": "683b3a83-2aa5-46c9-9d25-f6a5d89e4ea3",
+      "quizId": "0f3de59e-f5c4-49ab-a252-843fdb9eef27",
+      "participantId": "2eca337e-f95b-4772-ba87-d36d45951ead",
+      "startedAt": "2026-09-09T06:27:12.859Z"
+    }
+  ]
+}

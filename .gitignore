@@ -1,0 +1,37 @@
+# Environnement Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Modèles IA
+*.pt
+*.onnx
+
+# Données
+*.mp4
+*.avi
+*.mov
+*.zip
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+.env.example
+
+# MQTT
+mosquitto.db
+
+# Build
+dist/
+build/
